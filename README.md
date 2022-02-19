@@ -324,25 +324,25 @@ here:
 CREDITS:
 --------
 
-HxCHARD/DCT  would not  have  been  possible without  the  contribution of  the
+`HxCHARD/DCT` would not  have  been possible without  the  contribution of  the
 following people:
 
-Jean-Francois  Del Nero  who designed that fantastic piece of hardware, the HxC
+_Jean-Francois Del Nero_ who designed that fantastic piece of hardware, the HxC
 Floppy Emulator.
 
-Przemyslaw  "Lotharek"  Krawczyk from  Poland, who builds  and sells HxC Floppy
+_Przemyslaw "Lotharek" Krawczyk_ from  Poland, who builds  and sells HxC Floppy
 Emulators.
 
-Tim  Mann  from California, who  developed XTRSHARD/DCT on which HxCHARD/DCT is
+_Tim Mann_ from California, who  developed XTRSHARD/DCT on which HxCHARD/DCT is
 based.
 
-Gazza  from "Downunder" and Martin Lucas from Texas who spent considerable time
+_Gazza_ from "Downunder" and _Martin Lucas_ from Texas who spent considerable time
 to test and help me in debugging the driver.
 
-Ian  Mavric from  Australia, who builds and sells FreHD Hard Disk emulators and
+_Ian Mavric_ from  Australia, who builds and sells FreHD Hard Disk emulators and
 publishes some VHD images on his web site.
 
-Raymond  Whitehurst  from Australia  who  introduced  HxCHARD to  his  friends,
+_Raymond Whitehurst_ from Australia  who  introduced  HxCHARD to  his  friends,
 including Gazza and Ian Mavric.
 
 Many thanks to all of them for keeping the TRS-80 alive !
